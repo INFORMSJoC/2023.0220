@@ -58,7 +58,7 @@ Further, in order to compute the $\varepsilon$-convex indicator (see _Definition
 
 - `gurobipy 11.0.1`
 
-must be installed.
+must be available.
 
 ## Data
 

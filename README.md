@@ -31,7 +31,7 @@ Below is the BibTex for citing this snapshot of the repository.
   author =        {S. Helfrich, S. Ruzika, C. Thielen},
   publisher =     {INFORMS Journal on Computing},
   title =         {{Efficiently Constructing Convex Approximation Sets in Multiobjective Optimization Problems}},
-  year =          {2023},
+  year =          {2024},
   doi =           {10.1287/ijoc.2023.0220.cd},
   url =           {https://github.com/INFORMSJoC/2023.0220},
   note =          {Available for download at https://github.com/INFORMSJoC/2023.0220},
